@@ -22,7 +22,7 @@ public class DemandeHebergement {
     private String libelle;
     private String description;
     private LocalDate date;
-    private Boolean statut;
+    private String statut;
     private String concerner;
 
     @ManyToOne
