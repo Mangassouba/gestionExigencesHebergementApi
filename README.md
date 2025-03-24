@@ -24,12 +24,15 @@ Cette API vise à améliorer les demandes d'hébergement des sites et applicatio
 **Suivez ces étapes pour configurer le projet sur votre machine locale :**
 
 - Clonez le dépôt sur votre machine locale :
-`` git clone https://github.com/Mangassouba/gestionExigencesHebergementApi``
+
+        git clone https://github.com/Mangassouba/gestionExigencesHebergementApi 
 
 - Accédez au répertoire du projet :
-`` cd gestionExigencesHebergementApi``
+
+        cd gestionExigencesHebergementApi
 
 - Installez les dépendances du projet :
-npm install
+
+        npm install
 
 ## Configuration de la base de donnee
